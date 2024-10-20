@@ -1,0 +1,2 @@
+Validation Accuracy: 63.4
+Validation Macro F1: 0.2966758688398859

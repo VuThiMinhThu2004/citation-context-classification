@@ -1,0 +1,5 @@
+Validation Accuracy: 67.8
+Validation Macro F1: 0.672805459474619
+Final Results
+Accuracy: 67.8
+Macro F1 Score: 0.672805459474619

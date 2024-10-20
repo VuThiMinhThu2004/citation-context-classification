@@ -1,0 +1,6 @@
+Sentence: This is the first sentence.
+Predicted label: 1, Probabilities: tensor([[0.2130, 0.7870]], device='cuda:0')
+
+Sentence: Here is another one.
+Predicted label: 1, Probabilities: tensor([[0.3600, 0.6400]], device='cuda:0')
+

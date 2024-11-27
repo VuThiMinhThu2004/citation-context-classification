@@ -29,12 +29,6 @@ To address these challenges, a combination of traditional machine learning and a
 
 ## Technologies Used
 
-### Data Processing and Analysis:
-- **Language**: Python
-- **Libraries**: 
-  - `pandas`
-  - `numpy`
-
 ### Machine Learning Models:
 - `scikit-learn`: For Random Forests and SVM.
 - HuggingFace Transformers: Advanced transformer-based models.
